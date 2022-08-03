@@ -1,0 +1,147 @@
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\Paint\Paint\bin\Debug\Paint.exe.config
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\Paint\Paint\bin\Debug\Paint.exe
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\Paint\Paint\bin\Debug\Paint.pdb
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\Paint\Paint\obj\Debug\Paint.exe
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\Paint\Paint\obj\Debug\Paint.pdb
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\Paint\Paint\obj\Debug\Paint.DrawTogether_host.resources
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\Paint\Paint\obj\Debug\Paint.Menu.resources
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\Paint\Paint\obj\Debug\Paint.DrawTogether_client.resources
+D:\PHUONG\CODESS\LTMCB\Đồ Án cuối kỳ\Paint\Paint\bin\Debug\Paint.exe.config
+D:\PHUONG\CODESS\LTMCB\Đồ Án cuối kỳ\Paint\Paint\bin\Debug\Paint.exe
+D:\PHUONG\CODESS\LTMCB\Đồ Án cuối kỳ\Paint\Paint\bin\Debug\Paint.pdb
+D:\PHUONG\CODESS\LTMCB\Đồ Án cuối kỳ\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+D:\PHUONG\CODESS\LTMCB\Đồ Án cuối kỳ\Paint\Paint\obj\Debug\Paint.DrawTogether_client.resources
+D:\PHUONG\CODESS\LTMCB\Đồ Án cuối kỳ\Paint\Paint\obj\Debug\Paint.DrawTogether_host.resources
+D:\PHUONG\CODESS\LTMCB\Đồ Án cuối kỳ\Paint\Paint\obj\Debug\Paint.Menu.resources
+D:\PHUONG\CODESS\LTMCB\Đồ Án cuối kỳ\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\PHUONG\CODESS\LTMCB\Đồ Án cuối kỳ\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\PHUONG\CODESS\LTMCB\Đồ Án cuối kỳ\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\PHUONG\CODESS\LTMCB\Đồ Án cuối kỳ\Paint\Paint\obj\Debug\Paint.exe
+D:\PHUONG\CODESS\LTMCB\Đồ Án cuối kỳ\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\Admin\Desktop\Project2\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\Admin\Desktop\Project2\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\Admin\Desktop\Project2\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\Admin\Desktop\Project2\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Project2\Paint\Paint\obj\Debug\Paint.DrawTogether_client.resources
+C:\Users\Admin\Desktop\Project2\Paint\Paint\obj\Debug\Paint.DrawTogether_host.resources
+C:\Users\Admin\Desktop\Project2\Paint\Paint\obj\Debug\Paint.Menu.resources
+C:\Users\Admin\Desktop\Project2\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\Admin\Desktop\Project2\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Project2\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Project2\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\Admin\Desktop\Project2\Paint\Paint\obj\Debug\Paint.pdb
+D:\PHUONG\CODESS\LTMCB\Paint\Paint\Project2\Paint\Paint\bin\Debug\Paint.exe.config
+D:\PHUONG\CODESS\LTMCB\Paint\Paint\Project2\Paint\Paint\bin\Debug\Paint.exe
+D:\PHUONG\CODESS\LTMCB\Paint\Paint\Project2\Paint\Paint\bin\Debug\Paint.pdb
+D:\PHUONG\CODESS\LTMCB\Paint\Paint\Project2\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+D:\PHUONG\CODESS\LTMCB\Paint\Paint\Project2\Paint\Paint\obj\Debug\Paint.DrawTogether_client.resources
+D:\PHUONG\CODESS\LTMCB\Paint\Paint\Project2\Paint\Paint\obj\Debug\Paint.DrawTogether_host.resources
+D:\PHUONG\CODESS\LTMCB\Paint\Paint\Project2\Paint\Paint\obj\Debug\Paint.Menu.resources
+D:\PHUONG\CODESS\LTMCB\Paint\Paint\Project2\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\PHUONG\CODESS\LTMCB\Paint\Paint\Project2\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\PHUONG\CODESS\LTMCB\Paint\Paint\Project2\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\PHUONG\CODESS\LTMCB\Paint\Paint\Project2\Paint\Paint\obj\Debug\Paint.exe
+D:\PHUONG\CODESS\LTMCB\Paint\Paint\Project2\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\admin\Downloads\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\admin\Downloads\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\admin\Downloads\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\admin\Downloads\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\Paint\Paint\obj\Debug\Paint.DrawTogether_client.resources
+C:\Users\admin\Downloads\Paint\Paint\obj\Debug\Paint.DrawTogether_host.resources
+C:\Users\admin\Downloads\Paint\Paint\obj\Debug\Paint.Menu.resources
+C:\Users\admin\Downloads\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\admin\Downloads\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\admin\Downloads\Paint\Paint\obj\Debug\Paint.pdb
+D:\PHUONG\CODESS\LTMCB\Paint\Paint\Paint\bin\Debug\Paint.exe.config
+D:\PHUONG\CODESS\LTMCB\Paint\Paint\Paint\bin\Debug\Paint.exe
+D:\PHUONG\CODESS\LTMCB\Paint\Paint\Paint\bin\Debug\Paint.pdb
+D:\PHUONG\CODESS\LTMCB\Paint\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+D:\PHUONG\CODESS\LTMCB\Paint\Paint\Paint\obj\Debug\Paint.DrawTogether_client.resources
+D:\PHUONG\CODESS\LTMCB\Paint\Paint\Paint\obj\Debug\Paint.DrawTogether_host.resources
+D:\PHUONG\CODESS\LTMCB\Paint\Paint\Paint\obj\Debug\Paint.Menu.resources
+D:\PHUONG\CODESS\LTMCB\Paint\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\PHUONG\CODESS\LTMCB\Paint\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\PHUONG\CODESS\LTMCB\Paint\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\PHUONG\CODESS\LTMCB\Paint\Paint\Paint\obj\Debug\Paint.exe
+D:\PHUONG\CODESS\LTMCB\Paint\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\Admin\Desktop\Project4\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\Admin\Desktop\Project4\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\Admin\Desktop\Project4\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\Admin\Desktop\Project4\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Project4\Paint\Paint\obj\Debug\Paint.DrawTogether_client.resources
+C:\Users\Admin\Desktop\Project4\Paint\Paint\obj\Debug\Paint.DrawTogether_host.resources
+C:\Users\Admin\Desktop\Project4\Paint\Paint\obj\Debug\Paint.Menu.resources
+C:\Users\Admin\Desktop\Project4\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\Admin\Desktop\Project4\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Project4\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Project4\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\Admin\Desktop\Project4\Paint\Paint\obj\Debug\Paint.pdb
+D:\PHUONG\CODESS\LTMCB\Project\Paint\Paint\bin\Debug\Paint.exe.config
+D:\PHUONG\CODESS\LTMCB\Project\Paint\Paint\bin\Debug\Paint.exe
+D:\PHUONG\CODESS\LTMCB\Project\Paint\Paint\bin\Debug\Paint.pdb
+D:\PHUONG\CODESS\LTMCB\Project\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+D:\PHUONG\CODESS\LTMCB\Project\Paint\Paint\obj\Debug\Paint.DrawTogether_client.resources
+D:\PHUONG\CODESS\LTMCB\Project\Paint\Paint\obj\Debug\Paint.DrawTogether_host.resources
+D:\PHUONG\CODESS\LTMCB\Project\Paint\Paint\obj\Debug\Paint.Menu.resources
+D:\PHUONG\CODESS\LTMCB\Project\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\PHUONG\CODESS\LTMCB\Project\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\PHUONG\CODESS\LTMCB\Project\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\PHUONG\CODESS\LTMCB\Project\Paint\Paint\obj\Debug\Paint.exe
+D:\PHUONG\CODESS\LTMCB\Project\Paint\Paint\obj\Debug\Paint.pdb
+D:\PHUONG\CODESS\LTMCB\Project\Paint\Paint\bin\Debug\FontAwesome.Sharp.dll
+D:\PHUONG\CODESS\LTMCB\Project\Paint\Paint\obj\Debug\Paint.csproj.CopyComplete
+D:\PHUONG\CODESS\LTMCB\Project\Paint\Paint\obj\Debug\Paint.LoginAndRegister.resources
+D:\CODESS\LTMCB\PAINT\Paint\Paint\bin\Debug\Paint.exe.config
+D:\CODESS\LTMCB\PAINT\Paint\Paint\bin\Debug\Paint.exe
+D:\CODESS\LTMCB\PAINT\Paint\Paint\bin\Debug\Paint.pdb
+D:\CODESS\LTMCB\PAINT\Paint\Paint\bin\Debug\FontAwesome.Sharp.dll
+D:\CODESS\LTMCB\PAINT\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+D:\CODESS\LTMCB\PAINT\Paint\Paint\obj\Debug\Paint.DrawTogether_client.resources
+D:\CODESS\LTMCB\PAINT\Paint\Paint\obj\Debug\Paint.DrawTogether_host.resources
+D:\CODESS\LTMCB\PAINT\Paint\Paint\obj\Debug\Paint.LoginAndRegister.resources
+D:\CODESS\LTMCB\PAINT\Paint\Paint\obj\Debug\Paint.Menu.resources
+D:\CODESS\LTMCB\PAINT\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\CODESS\LTMCB\PAINT\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\CODESS\LTMCB\PAINT\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\CODESS\LTMCB\PAINT\Paint\Paint\obj\Debug\Paint.csproj.CopyComplete
+D:\CODESS\LTMCB\PAINT\Paint\Paint\obj\Debug\Paint.exe
+D:\CODESS\LTMCB\PAINT\Paint\Paint\obj\Debug\Paint.pdb
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\PAINT\Paint\Paint\bin\Debug\snappy32.dll
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\PAINT\Paint\Paint\bin\Debug\snappy64.dll
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\PAINT\Paint\Paint\bin\Debug\libzstd.dll
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\PAINT\Paint\Paint\bin\Debug\mongocrypt.dll
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\PAINT\Paint\Paint\bin\Debug\Paint.exe.config
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\PAINT\Paint\Paint\bin\Debug\Paint.exe
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\PAINT\Paint\Paint\bin\Debug\Paint.pdb
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\PAINT\Paint\Paint\bin\Debug\DnsClient.dll
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\PAINT\Paint\Paint\bin\Debug\FontAwesome.Sharp.dll
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\PAINT\Paint\Paint\bin\Debug\MongoDB.Bson.dll
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\PAINT\Paint\Paint\bin\Debug\MongoDB.Driver.Core.dll
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\PAINT\Paint\Paint\bin\Debug\MongoDB.Driver.dll
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\PAINT\Paint\Paint\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\PAINT\Paint\Paint\bin\Debug\SharpCompress.dll
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\PAINT\Paint\Paint\bin\Debug\System.Buffers.dll
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\PAINT\Paint\Paint\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\PAINT\Paint\Paint\bin\Debug\DnsClient.xml
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\PAINT\Paint\Paint\bin\Debug\MongoDB.Bson.xml
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\PAINT\Paint\Paint\bin\Debug\MongoDB.Driver.xml
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\PAINT\Paint\Paint\bin\Debug\MongoDB.Driver.Core.xml
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\PAINT\Paint\Paint\bin\Debug\System.Buffers.xml
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\PAINT\Paint\Paint\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\PAINT\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\PAINT\Paint\Paint\obj\Debug\Paint.DrawTogether_client.resources
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\PAINT\Paint\Paint\obj\Debug\Paint.DrawTogether_host.resources
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\PAINT\Paint\Paint\obj\Debug\Paint.LoginAndRegister.resources
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\PAINT\Paint\Paint\obj\Debug\Paint.Menu.resources
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\PAINT\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\PAINT\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\PAINT\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\PAINT\Paint\Paint\obj\Debug\Paint.csproj.CopyComplete
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\PAINT\Paint\Paint\obj\Debug\Paint.exe
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\PAINT\Paint\Paint\obj\Debug\Paint.pdb

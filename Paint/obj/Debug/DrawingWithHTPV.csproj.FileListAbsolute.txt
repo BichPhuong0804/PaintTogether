@@ -1,0 +1,198 @@
+D:\Download\DrawingWithHTPV\Paint\bin\Debug\snappy32.dll
+D:\Download\DrawingWithHTPV\Paint\bin\Debug\snappy64.dll
+D:\Download\DrawingWithHTPV\Paint\bin\Debug\libzstd.dll
+D:\Download\DrawingWithHTPV\Paint\bin\Debug\mongocrypt.dll
+D:\Download\DrawingWithHTPV\Paint\bin\Debug\Paint.exe.config
+D:\Download\DrawingWithHTPV\Paint\bin\Debug\Paint.exe
+D:\Download\DrawingWithHTPV\Paint\bin\Debug\Paint.pdb
+D:\Download\DrawingWithHTPV\Paint\bin\Debug\DnsClient.dll
+D:\Download\DrawingWithHTPV\Paint\bin\Debug\FontAwesome.Sharp.dll
+D:\Download\DrawingWithHTPV\Paint\bin\Debug\MongoDB.Bson.dll
+D:\Download\DrawingWithHTPV\Paint\bin\Debug\MongoDB.Driver.Core.dll
+D:\Download\DrawingWithHTPV\Paint\bin\Debug\MongoDB.Driver.dll
+D:\Download\DrawingWithHTPV\Paint\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\Download\DrawingWithHTPV\Paint\bin\Debug\SharpCompress.dll
+D:\Download\DrawingWithHTPV\Paint\bin\Debug\System.Buffers.dll
+D:\Download\DrawingWithHTPV\Paint\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Download\DrawingWithHTPV\Paint\bin\Debug\DnsClient.xml
+D:\Download\DrawingWithHTPV\Paint\bin\Debug\MongoDB.Bson.xml
+D:\Download\DrawingWithHTPV\Paint\bin\Debug\MongoDB.Driver.xml
+D:\Download\DrawingWithHTPV\Paint\bin\Debug\MongoDB.Driver.Core.xml
+D:\Download\DrawingWithHTPV\Paint\bin\Debug\System.Buffers.xml
+D:\Download\DrawingWithHTPV\Paint\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Download\DrawingWithHTPV\Paint\obj\Debug\DrawingWithHTPV.csprojAssemblyReference.cache
+D:\Download\DrawingWithHTPV\Paint\obj\Debug\Paint.DrawTogether_client.resources
+D:\Download\DrawingWithHTPV\Paint\obj\Debug\Paint.DrawTogether_host.resources
+D:\Download\DrawingWithHTPV\Paint\obj\Debug\Paint.LoginAndRegister.resources
+D:\Download\DrawingWithHTPV\Paint\obj\Debug\Paint.Menu.resources
+D:\Download\DrawingWithHTPV\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\Download\DrawingWithHTPV\Paint\obj\Debug\DrawingWithHTPV.csproj.GenerateResource.cache
+D:\Download\DrawingWithHTPV\Paint\obj\Debug\DrawingWithHTPV.csproj.CoreCompileInputs.cache
+D:\Download\DrawingWithHTPV\Paint\obj\Debug\DrawingWithHTPV.csproj.CopyComplete
+D:\Download\DrawingWithHTPV\Paint\obj\Debug\Paint.exe
+D:\Download\DrawingWithHTPV\Paint\obj\Debug\Paint.pdb
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\DrawingWithHTPV\Paint\bin\Debug\snappy32.dll
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\DrawingWithHTPV\Paint\bin\Debug\snappy64.dll
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\DrawingWithHTPV\Paint\bin\Debug\libzstd.dll
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\DrawingWithHTPV\Paint\bin\Debug\mongocrypt.dll
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\DrawingWithHTPV\Paint\bin\Debug\Paint.exe.config
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\DrawingWithHTPV\Paint\bin\Debug\Paint.exe
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\DrawingWithHTPV\Paint\bin\Debug\Paint.pdb
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\DrawingWithHTPV\Paint\bin\Debug\DnsClient.dll
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\DrawingWithHTPV\Paint\bin\Debug\FontAwesome.Sharp.dll
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\DrawingWithHTPV\Paint\bin\Debug\MongoDB.Bson.dll
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\DrawingWithHTPV\Paint\bin\Debug\MongoDB.Driver.Core.dll
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\DrawingWithHTPV\Paint\bin\Debug\MongoDB.Driver.dll
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\DrawingWithHTPV\Paint\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\DrawingWithHTPV\Paint\bin\Debug\SharpCompress.dll
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\DrawingWithHTPV\Paint\bin\Debug\System.Buffers.dll
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\DrawingWithHTPV\Paint\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\DrawingWithHTPV\Paint\bin\Debug\DnsClient.xml
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\DrawingWithHTPV\Paint\bin\Debug\MongoDB.Bson.xml
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\DrawingWithHTPV\Paint\bin\Debug\MongoDB.Driver.xml
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\DrawingWithHTPV\Paint\bin\Debug\MongoDB.Driver.Core.xml
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\DrawingWithHTPV\Paint\bin\Debug\System.Buffers.xml
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\DrawingWithHTPV\Paint\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\DrawingWithHTPV\Paint\obj\Debug\DrawingWithHTPV.csprojAssemblyReference.cache
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\DrawingWithHTPV\Paint\obj\Debug\Paint.DrawTogether_client.resources
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\DrawingWithHTPV\Paint\obj\Debug\Paint.DrawTogether_host.resources
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\DrawingWithHTPV\Paint\obj\Debug\Paint.LoginAndRegister.resources
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\DrawingWithHTPV\Paint\obj\Debug\Paint.Menu.resources
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\DrawingWithHTPV\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\DrawingWithHTPV\Paint\obj\Debug\DrawingWithHTPV.csproj.GenerateResource.cache
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\DrawingWithHTPV\Paint\obj\Debug\DrawingWithHTPV.csproj.CoreCompileInputs.cache
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\DrawingWithHTPV\Paint\obj\Debug\DrawingWithHTPV.csproj.CopyComplete
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\DrawingWithHTPV\Paint\obj\Debug\Paint.exe
+D:\Courses\HK IV\Lập trình mạng căn bản\Đồ án (test)\DrawingWithHTPV\Paint\obj\Debug\Paint.pdb
+D:\CODESS\LTMCB\DrawingWithHTPV\Paint\bin\Debug\snappy32.dll
+D:\CODESS\LTMCB\DrawingWithHTPV\Paint\bin\Debug\snappy64.dll
+D:\CODESS\LTMCB\DrawingWithHTPV\Paint\bin\Debug\libzstd.dll
+D:\CODESS\LTMCB\DrawingWithHTPV\Paint\bin\Debug\mongocrypt.dll
+D:\CODESS\LTMCB\DrawingWithHTPV\Paint\bin\Debug\Paint.exe.config
+D:\CODESS\LTMCB\DrawingWithHTPV\Paint\bin\Debug\Paint.exe
+D:\CODESS\LTMCB\DrawingWithHTPV\Paint\bin\Debug\Paint.pdb
+D:\CODESS\LTMCB\DrawingWithHTPV\Paint\bin\Debug\DnsClient.dll
+D:\CODESS\LTMCB\DrawingWithHTPV\Paint\bin\Debug\FontAwesome.Sharp.dll
+D:\CODESS\LTMCB\DrawingWithHTPV\Paint\bin\Debug\MongoDB.Bson.dll
+D:\CODESS\LTMCB\DrawingWithHTPV\Paint\bin\Debug\MongoDB.Driver.Core.dll
+D:\CODESS\LTMCB\DrawingWithHTPV\Paint\bin\Debug\MongoDB.Driver.dll
+D:\CODESS\LTMCB\DrawingWithHTPV\Paint\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\CODESS\LTMCB\DrawingWithHTPV\Paint\bin\Debug\SharpCompress.dll
+D:\CODESS\LTMCB\DrawingWithHTPV\Paint\bin\Debug\System.Buffers.dll
+D:\CODESS\LTMCB\DrawingWithHTPV\Paint\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CODESS\LTMCB\DrawingWithHTPV\Paint\bin\Debug\DnsClient.xml
+D:\CODESS\LTMCB\DrawingWithHTPV\Paint\bin\Debug\MongoDB.Bson.xml
+D:\CODESS\LTMCB\DrawingWithHTPV\Paint\bin\Debug\MongoDB.Driver.xml
+D:\CODESS\LTMCB\DrawingWithHTPV\Paint\bin\Debug\MongoDB.Driver.Core.xml
+D:\CODESS\LTMCB\DrawingWithHTPV\Paint\bin\Debug\System.Buffers.xml
+D:\CODESS\LTMCB\DrawingWithHTPV\Paint\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CODESS\LTMCB\DrawingWithHTPV\Paint\obj\Debug\DrawingWithHTPV.csprojAssemblyReference.cache
+D:\CODESS\LTMCB\DrawingWithHTPV\Paint\obj\Debug\Paint.DrawTogether_client.resources
+D:\CODESS\LTMCB\DrawingWithHTPV\Paint\obj\Debug\Paint.DrawTogether_host.resources
+D:\CODESS\LTMCB\DrawingWithHTPV\Paint\obj\Debug\Paint.LoginAndRegister.resources
+D:\CODESS\LTMCB\DrawingWithHTPV\Paint\obj\Debug\Paint.Menu.resources
+D:\CODESS\LTMCB\DrawingWithHTPV\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\CODESS\LTMCB\DrawingWithHTPV\Paint\obj\Debug\DrawingWithHTPV.csproj.GenerateResource.cache
+D:\CODESS\LTMCB\DrawingWithHTPV\Paint\obj\Debug\DrawingWithHTPV.csproj.CoreCompileInputs.cache
+D:\CODESS\LTMCB\DrawingWithHTPV\Paint\obj\Debug\DrawingWithHTPV.csproj.CopyComplete
+D:\CODESS\LTMCB\DrawingWithHTPV\Paint\obj\Debug\Paint.exe
+D:\CODESS\LTMCB\DrawingWithHTPV\Paint\obj\Debug\Paint.pdb
+D:\Download\DrawingWithHTPV (Phượng)\Paint\bin\Debug\snappy32.dll
+D:\Download\DrawingWithHTPV (Phượng)\Paint\bin\Debug\snappy64.dll
+D:\Download\DrawingWithHTPV (Phượng)\Paint\bin\Debug\libzstd.dll
+D:\Download\DrawingWithHTPV (Phượng)\Paint\bin\Debug\mongocrypt.dll
+D:\Download\DrawingWithHTPV (Phượng)\Paint\bin\Debug\Paint.exe.config
+D:\Download\DrawingWithHTPV (Phượng)\Paint\bin\Debug\Paint.exe
+D:\Download\DrawingWithHTPV (Phượng)\Paint\bin\Debug\Paint.pdb
+D:\Download\DrawingWithHTPV (Phượng)\Paint\bin\Debug\DnsClient.dll
+D:\Download\DrawingWithHTPV (Phượng)\Paint\bin\Debug\FontAwesome.Sharp.dll
+D:\Download\DrawingWithHTPV (Phượng)\Paint\bin\Debug\MongoDB.Bson.dll
+D:\Download\DrawingWithHTPV (Phượng)\Paint\bin\Debug\MongoDB.Driver.Core.dll
+D:\Download\DrawingWithHTPV (Phượng)\Paint\bin\Debug\MongoDB.Driver.dll
+D:\Download\DrawingWithHTPV (Phượng)\Paint\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\Download\DrawingWithHTPV (Phượng)\Paint\bin\Debug\SharpCompress.dll
+D:\Download\DrawingWithHTPV (Phượng)\Paint\bin\Debug\System.Buffers.dll
+D:\Download\DrawingWithHTPV (Phượng)\Paint\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Download\DrawingWithHTPV (Phượng)\Paint\bin\Debug\DnsClient.xml
+D:\Download\DrawingWithHTPV (Phượng)\Paint\bin\Debug\MongoDB.Bson.xml
+D:\Download\DrawingWithHTPV (Phượng)\Paint\bin\Debug\MongoDB.Driver.xml
+D:\Download\DrawingWithHTPV (Phượng)\Paint\bin\Debug\MongoDB.Driver.Core.xml
+D:\Download\DrawingWithHTPV (Phượng)\Paint\bin\Debug\System.Buffers.xml
+D:\Download\DrawingWithHTPV (Phượng)\Paint\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Download\DrawingWithHTPV (Phượng)\Paint\obj\Debug\DrawingWithHTPV.csprojAssemblyReference.cache
+D:\Download\DrawingWithHTPV (Phượng)\Paint\obj\Debug\Paint.DrawTogether_client.resources
+D:\Download\DrawingWithHTPV (Phượng)\Paint\obj\Debug\Paint.DrawTogether_host.resources
+D:\Download\DrawingWithHTPV (Phượng)\Paint\obj\Debug\Paint.LoginAndRegister.resources
+D:\Download\DrawingWithHTPV (Phượng)\Paint\obj\Debug\Paint.Menu.resources
+D:\Download\DrawingWithHTPV (Phượng)\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\Download\DrawingWithHTPV (Phượng)\Paint\obj\Debug\DrawingWithHTPV.csproj.GenerateResource.cache
+D:\Download\DrawingWithHTPV (Phượng)\Paint\obj\Debug\DrawingWithHTPV.csproj.CoreCompileInputs.cache
+D:\Download\DrawingWithHTPV (Phượng)\Paint\obj\Debug\DrawingWithHTPV.csproj.CopyComplete
+D:\Download\DrawingWithHTPV (Phượng)\Paint\obj\Debug\Paint.exe
+D:\Download\DrawingWithHTPV (Phượng)\Paint\obj\Debug\Paint.pdb
+F:\LTMCB\PROJECT\DrawingWithHTPV\Paint\bin\Debug\snappy32.dll
+F:\LTMCB\PROJECT\DrawingWithHTPV\Paint\bin\Debug\snappy64.dll
+F:\LTMCB\PROJECT\DrawingWithHTPV\Paint\bin\Debug\libzstd.dll
+F:\LTMCB\PROJECT\DrawingWithHTPV\Paint\bin\Debug\mongocrypt.dll
+F:\LTMCB\PROJECT\DrawingWithHTPV\Paint\bin\Debug\Paint.exe.config
+F:\LTMCB\PROJECT\DrawingWithHTPV\Paint\bin\Debug\Paint.exe
+F:\LTMCB\PROJECT\DrawingWithHTPV\Paint\bin\Debug\DnsClient.dll
+F:\LTMCB\PROJECT\DrawingWithHTPV\Paint\bin\Debug\FontAwesome.Sharp.dll
+F:\LTMCB\PROJECT\DrawingWithHTPV\Paint\bin\Debug\MongoDB.Bson.dll
+F:\LTMCB\PROJECT\DrawingWithHTPV\Paint\bin\Debug\MongoDB.Driver.Core.dll
+F:\LTMCB\PROJECT\DrawingWithHTPV\Paint\bin\Debug\MongoDB.Driver.dll
+F:\LTMCB\PROJECT\DrawingWithHTPV\Paint\bin\Debug\MongoDB.Libmongocrypt.dll
+F:\LTMCB\PROJECT\DrawingWithHTPV\Paint\bin\Debug\SharpCompress.dll
+F:\LTMCB\PROJECT\DrawingWithHTPV\Paint\bin\Debug\System.Buffers.dll
+F:\LTMCB\PROJECT\DrawingWithHTPV\Paint\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\LTMCB\PROJECT\DrawingWithHTPV\Paint\bin\Debug\DnsClient.xml
+F:\LTMCB\PROJECT\DrawingWithHTPV\Paint\bin\Debug\MongoDB.Bson.xml
+F:\LTMCB\PROJECT\DrawingWithHTPV\Paint\bin\Debug\MongoDB.Driver.xml
+F:\LTMCB\PROJECT\DrawingWithHTPV\Paint\bin\Debug\MongoDB.Driver.Core.xml
+F:\LTMCB\PROJECT\DrawingWithHTPV\Paint\bin\Debug\System.Buffers.xml
+F:\LTMCB\PROJECT\DrawingWithHTPV\Paint\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\LTMCB\PROJECT\DrawingWithHTPV\Paint\obj\Debug\DrawingWithHTPV.csprojAssemblyReference.cache
+F:\LTMCB\PROJECT\DrawingWithHTPV\Paint\obj\Debug\Paint.DrawTogether_client.resources
+F:\LTMCB\PROJECT\DrawingWithHTPV\Paint\obj\Debug\Paint.DrawTogether_host.resources
+F:\LTMCB\PROJECT\DrawingWithHTPV\Paint\obj\Debug\Paint.LoginAndRegister.resources
+F:\LTMCB\PROJECT\DrawingWithHTPV\Paint\obj\Debug\Paint.Menu.resources
+F:\LTMCB\PROJECT\DrawingWithHTPV\Paint\obj\Debug\Paint.Properties.Resources.resources
+F:\LTMCB\PROJECT\DrawingWithHTPV\Paint\obj\Debug\DrawingWithHTPV.csproj.GenerateResource.cache
+F:\LTMCB\PROJECT\DrawingWithHTPV\Paint\obj\Debug\DrawingWithHTPV.csproj.CoreCompileInputs.cache
+F:\LTMCB\PROJECT\DrawingWithHTPV\Paint\obj\Debug\DrawingWithHTPV.csproj.CopyComplete
+F:\LTMCB\PROJECT\DrawingWithHTPV\Paint\obj\Debug\Paint.exe
+F:\LTMCB\PROJECT\DrawingWithHTPV\Paint\obj\Debug\Paint.pdb
+F:\LTMCB\PROJECT\DrawingWithHTPV\Paint\bin\Debug\Paint.pdb
+F:\LTMCB\PROJECT\PaintingWithHADPU\Paint\bin\Debug\snappy32.dll
+F:\LTMCB\PROJECT\PaintingWithHADPU\Paint\bin\Debug\snappy64.dll
+F:\LTMCB\PROJECT\PaintingWithHADPU\Paint\bin\Debug\libzstd.dll
+F:\LTMCB\PROJECT\PaintingWithHADPU\Paint\bin\Debug\mongocrypt.dll
+F:\LTMCB\PROJECT\PaintingWithHADPU\Paint\bin\Debug\Paint.exe.config
+F:\LTMCB\PROJECT\PaintingWithHADPU\Paint\bin\Debug\Paint.exe
+F:\LTMCB\PROJECT\PaintingWithHADPU\Paint\bin\Debug\Paint.pdb
+F:\LTMCB\PROJECT\PaintingWithHADPU\Paint\bin\Debug\DnsClient.dll
+F:\LTMCB\PROJECT\PaintingWithHADPU\Paint\bin\Debug\FontAwesome.Sharp.dll
+F:\LTMCB\PROJECT\PaintingWithHADPU\Paint\bin\Debug\MongoDB.Bson.dll
+F:\LTMCB\PROJECT\PaintingWithHADPU\Paint\bin\Debug\MongoDB.Driver.Core.dll
+F:\LTMCB\PROJECT\PaintingWithHADPU\Paint\bin\Debug\MongoDB.Driver.dll
+F:\LTMCB\PROJECT\PaintingWithHADPU\Paint\bin\Debug\MongoDB.Libmongocrypt.dll
+F:\LTMCB\PROJECT\PaintingWithHADPU\Paint\bin\Debug\SharpCompress.dll
+F:\LTMCB\PROJECT\PaintingWithHADPU\Paint\bin\Debug\System.Buffers.dll
+F:\LTMCB\PROJECT\PaintingWithHADPU\Paint\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\LTMCB\PROJECT\PaintingWithHADPU\Paint\bin\Debug\DnsClient.xml
+F:\LTMCB\PROJECT\PaintingWithHADPU\Paint\bin\Debug\MongoDB.Bson.xml
+F:\LTMCB\PROJECT\PaintingWithHADPU\Paint\bin\Debug\MongoDB.Driver.xml
+F:\LTMCB\PROJECT\PaintingWithHADPU\Paint\bin\Debug\MongoDB.Driver.Core.xml
+F:\LTMCB\PROJECT\PaintingWithHADPU\Paint\bin\Debug\System.Buffers.xml
+F:\LTMCB\PROJECT\PaintingWithHADPU\Paint\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\LTMCB\PROJECT\PaintingWithHADPU\Paint\obj\Debug\DrawingWithHTPV.csprojAssemblyReference.cache
+F:\LTMCB\PROJECT\PaintingWithHADPU\Paint\obj\Debug\Paint.DrawTogether_client.resources
+F:\LTMCB\PROJECT\PaintingWithHADPU\Paint\obj\Debug\Paint.DrawTogether_host.resources
+F:\LTMCB\PROJECT\PaintingWithHADPU\Paint\obj\Debug\Paint.LoginAndRegister.resources
+F:\LTMCB\PROJECT\PaintingWithHADPU\Paint\obj\Debug\Paint.Menu.resources
+F:\LTMCB\PROJECT\PaintingWithHADPU\Paint\obj\Debug\Paint.Properties.Resources.resources
+F:\LTMCB\PROJECT\PaintingWithHADPU\Paint\obj\Debug\DrawingWithHTPV.csproj.GenerateResource.cache
+F:\LTMCB\PROJECT\PaintingWithHADPU\Paint\obj\Debug\DrawingWithHTPV.csproj.CoreCompileInputs.cache
+F:\LTMCB\PROJECT\PaintingWithHADPU\Paint\obj\Debug\DrawingWithHTPV.csproj.CopyComplete
+F:\LTMCB\PROJECT\PaintingWithHADPU\Paint\obj\Debug\Paint.exe
+F:\LTMCB\PROJECT\PaintingWithHADPU\Paint\obj\Debug\Paint.pdb
